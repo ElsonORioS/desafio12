@@ -24,12 +24,12 @@ header{
 header > h1{
     padding-top: 50px ;
     font-family: var(--font2);
-    font-size: 3.5vw;
+    
 }
 header > p{
     padding-bottom:  50px;
     font-family: var(--font1);
-    font-size: 3.5vw;
+    
 }
 header a , footer a{
     color: white;
@@ -44,7 +44,7 @@ section {
     line-height: 1.5em;
     padding-left: 30px;
     font-family: var(--font1);
-    font-size: 3vw;
+    
     
 }
 section > p{
