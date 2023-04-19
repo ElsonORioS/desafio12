@@ -47,6 +47,9 @@ section {
     font-size: 3vw;
     
 }
+section > p{
+    padding-bottom: 1em;
+}
 section.normal{
     background-color: white;
     color: rgb(30, 30, 30);
