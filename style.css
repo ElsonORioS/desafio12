@@ -24,12 +24,12 @@ header{
 header > h1{
     padding-top: 50px ;
     font-family: var(--font2);
-    font-size: 3vw;
+    font-size: 3.5vw;
 }
 header > p{
     padding-bottom:  50px;
     font-family: var(--font1);
-    font-size: 2em;
+    font-size: 3.5em;
 }
 header a , footer a{
     color: white;
